@@ -1,7 +1,9 @@
 # 🚛 Projet SD-VRP - Optimisation des Livraisons avec Livraisons Fractionnées
+## 📊 Summary Graph
 
-![Banner](./summary graph.pdf)  
-*Résumé visuel des performances (voir [summary graph.pdf](./summary graph.pdf))*
+[![Visualisation des Résultats](https://img.shields.io/badge/View-Summary_Graph-blue?style=for-the-badge&logo=adobe-acrobat-reader)](summary%20graph.pdf)
+
+*Cliquez sur le bouton ci-dessus pour visualiser le graphique complet*
 
 
 ## 📌 Description du Projet
