@@ -22,7 +22,6 @@
 ---
 ## 🛠️ Méthodologie
 ### 1. Approche Exacte (Solveur PuLP/CBC)
-```python
  Variables :
  x[i,j,k] = 1 si le véhicule k voyage de i à j
  y[i,k] = quantité livrée au client i par le véhicule k
