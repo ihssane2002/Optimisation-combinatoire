@@ -1,7 +1,7 @@
 # 🚛 Projet SD-VRP - Optimisation des Livraisons avec Livraisons Fractionnées
 
 ![Banner](./summary graph.pdf)  
-*Résumé visuel des performances (voir [Summary_Graph.pdf](./Summary_Graph.pdf))*
+*Résumé visuel des performances (voir [summary graph.pdf](./summary graph.pdf))*
 
 
 ## 📌 Description du Projet
